@@ -1,1 +1,1 @@
-Implementation of breakout game.
+Implementation of breakout game with rxjs.
